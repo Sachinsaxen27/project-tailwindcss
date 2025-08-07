@@ -162,7 +162,7 @@ function HomePage() {
                         <li className='m-1 cursor-pointer hover:text-blue-500 '>Contact</li>
                     </ul>
                 </div>
-                <div className='max-[430px]: hidden'>
+                <div className='max-[430px]:hidden'>
                     <h2 className='font-bold'>Service</h2>
                     <ul>
                         <li className='m-1 cursor-pointer hover:text-blue-500'>Web Design</li>
