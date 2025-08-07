@@ -172,9 +172,9 @@ function HomePage() {
                         <li className='m-1 cursor-pointer hover:text-blue-500'>App Development</li>
                     </ul>
                 </div>
-                <div className='max-[430px]: flex max-[430px]:items-center max-[430px]:flex-col max-[430px]:mt-2.5'>
+                <div className= 'flex-col    max-[430px]: flex max-[430px]:items-center max-[430px]:flex-col max-[430px]:mt-2.5'>
                     <h1 className='font-bold text-center'>Join Us</h1>
-                    <button className='bg-amber-300 p-2 rounded-xl mt-2  max-[430px]:mb-2.5'>Apply For Internship</button>
+                    <button className='bg-amber-300 p-2 rounded-xl mt-2 max-[430px]:mb-2.5'>Apply For Internship</button>
                 </div>
             </div>
         </>
