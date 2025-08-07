@@ -174,7 +174,7 @@ function HomePage() {
                 </div>
                 <div className='max-[430px]: flex max-[430px]:items-center max-[430px]:flex-col max-[430px]:mt-2.5'>
                     <h1 className='font-bold text-center'>Join Us</h1>
-                    <button className='bg-amber-300 p-2 rounded-xl mt-2 '>Apply For Internship</button>
+                    <button className='bg-amber-300 p-2 rounded-xl mt-2  max-[430px]:mb-2.5'>Apply For Internship</button>
                 </div>
             </div>
         </>
