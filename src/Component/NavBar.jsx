@@ -21,8 +21,8 @@ function NavBar() {
                 <div className='flex flex-wrap'>
                     <div className=' flex max-[430px]:hidden max-[430px]:flex-col max-[430px]:items-center max-[430px]:justify-center' id='menushow'>
                         <div className='m-2.5 font-mono cursor-pointer hover:text-sky-700'><Link to='/about'> About US</Link></div>
-                        <div className='m-2.5 font-mono cursor-pointer hover:text-sky-700'>Services</div>
-                        <div className='m-2.5 font-mono cursor-pointer hover:text-sky-700'>Careers</div>
+                        <div className='m-2.5 font-mono cursor-pointer hover:text-sky-700'><Link to='/service'>Services</Link></div>
+                        <div className='m-2.5 font-mono cursor-pointer hover:text-sky-700'><Link to='/career'>Careers</Link></div>
                         <div className='m-2.5 font-mono cursor-pointer hover:text-sky-700'>Contact</div>
                     </div>
                 </div>

@@ -6,7 +6,7 @@ function AboutPage() {
             <div className='bg-[url(/src/Image/aboutimage1.jpg)] bg-no-repeat bg-center h-auto bg-cover opacity-90 pt-5 pb-[17px]'>
                 <div className='ml-2.5 mt-5 '>
                     <h1 className='text-8xl text-gray-300 font-serif'>Work with us</h1>
-                    <p className='text-2xl ml-2.5 w-[62rem] text-gray-300 mt-4'>We're always looking for passionate, creative, and driven individuals to grow with us. Whether you're a developer, designer, or problem-solver — let's build something amazing together.</p>
+                    <p className='text-2xl ml-2.5 w-[62rem] text-gray-300 mt-4 max-[430px]:w-[25rem] max-[430px]:text-lg'>We're always looking for passionate, creative, and driven individuals to grow with us. Whether you're a developer, designer, or problem-solver — let's build something amazing together.</p>
                 </div>
                 <div className='flex mt-5 ml-2.5'>
                     <div className='flex items-center m-2.5'>
